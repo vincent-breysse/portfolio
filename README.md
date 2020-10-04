@@ -1,5 +1,6 @@
-## WhichCraft, Oct 2019 – May 2020 - 8 months
+## WhichCraft
 -------------------------------------------------------
+### Oct 2019 – May 2020 - 8 months
 
 WhichCraft is a top down 3D action game we did during our 3rd year of studies.  
 For the most part, the project has been done remotely during the Covid-19 pandemic.
