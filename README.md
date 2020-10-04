@@ -104,3 +104,5 @@ https://store.steampowered.com/app/1141850/Radial/
 
 ### Editor clip
 [![Editor clip](https://img.youtube.com/vi/Q_NSUxumOyE/0.jpg)](https://www.youtube.com/watch?v=Q_NSUxumOyE)
+
+More details : https://github.com/vincent-breysse/radial
