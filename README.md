@@ -1,4 +1,4 @@
-# WhichCraft
+# WhichCraft [Unity, C#, Remote work]
 -------------------------------------------------------
 #### Oct 2019 – May 2020 - 8 months
 
@@ -16,7 +16,7 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 
 More details : https://github.com/vincent-breysse/whichcraft
 
-# CjOpenGL
+# CjOpenGL [C++, OpenGL]
 -------------------------------------------------------
 #### Oct 2019 – Mar 2020 - 6 months
 
@@ -36,7 +36,7 @@ This project contains the work I have done during my engine courses, and many ot
 
 More details : https://github.com/vincent-breysse/cj_opengl
 
-## Trym
+## Trym [C++, Vulkan, Personal project]
 -------------------------------------------------------
 #### Oct 2019 – Feb 2020 - 5 months
 
@@ -52,7 +52,7 @@ The engine uses Tryl (which is one of my projects) as its core library : https:/
 
 More details : https://github.com/vincent-breysse/trym
 
-# Tryl
+# Tryl [C++, Personal project]
 -------------------------------------------------------
 #### Oct 2018 – Feb 2020 - 1 year 5 months
 
@@ -68,7 +68,7 @@ The more the code base grows, the more the flaws in my code appear clearly. Tryi
 
 More details : https://github.com/vincent-breysse/tryl
 
-# Inari
+# Inari [Unity, C#]
 -------------------------------------------------------
 #### Jan 2019 – May 2019 - 5 months
 
@@ -85,7 +85,7 @@ https://www.creajeux.fr/project/inari/
 
 More details : https://github.com/vincent-breysse/inari
 
-## Radial
+## Radial [C++, SFML, Released on Steam]
 -------------------------------------------------------
 #### Jan 2018 – Sep 2018 - 9 months
 
