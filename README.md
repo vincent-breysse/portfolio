@@ -14,7 +14,7 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/FjbEneLxB-M/0.jpg)](https://www.youtube.com/watch?v=FjbEneLxB-M)
 
-More details : https://github.com/vincent-breysse/whichcraft
+#### More details : https://github.com/vincent-breysse/whichcraft
 
 # CjOpenGL [C++, OpenGL]
 -------------------------------------------------------
@@ -34,7 +34,7 @@ This project contains the work I have done during my engine courses, and many ot
 ### Glass rendering based on an Environment map
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/2.png)
 
-More details : https://github.com/vincent-breysse/cj_opengl
+#### More details : https://github.com/vincent-breysse/cj_opengl
 
 ## Trym [C++, Vulkan, Personal project]
 -------------------------------------------------------
@@ -50,7 +50,7 @@ The engine uses Tryl (which is one of my projects) as its core library : https:/
 ### Same as above with a Black and White Post Processing effect
 ![Simple scene screen](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/1.png)
 
-More details : https://github.com/vincent-breysse/trym
+#### More details : https://github.com/vincent-breysse/trym
 
 # Tryl [C++, Personal project]
 -------------------------------------------------------
@@ -66,7 +66,7 @@ It is intentionally kept large in order to face real-world difficulties. This pr
 
 The more the code base grows, the more the flaws in my code appear clearly. Trying to make my code passes the test of time was by biggest challenge here.  
 
-More details : https://github.com/vincent-breysse/tryl
+#### More details : https://github.com/vincent-breysse/tryl
 
 # Inari [Unity, C#]
 -------------------------------------------------------
@@ -83,7 +83,7 @@ https://www.creajeux.fr/project/inari/
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/BZAh1M4cmQY/0.jpg)](https://www.youtube.com/watch?v=BZAh1M4cmQY)
 
-More details : https://github.com/vincent-breysse/inari
+#### More details : https://github.com/vincent-breysse/inari
 
 ## Radial [C++, SFML, Released on Steam]
 -------------------------------------------------------
@@ -105,4 +105,4 @@ https://store.steampowered.com/app/1141850/Radial/
 ### Editor clip
 [![Editor clip](https://img.youtube.com/vi/Q_NSUxumOyE/0.jpg)](https://www.youtube.com/watch?v=Q_NSUxumOyE)
 
-More details : https://github.com/vincent-breysse/radial
+#### More details : https://github.com/vincent-breysse/radial
