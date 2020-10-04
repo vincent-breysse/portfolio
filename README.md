@@ -1,6 +1,6 @@
 ## WhichCraft
 -------------------------------------------------------
-### Oct 2019 – May 2020 - 8 months
+#### Oct 2019 – May 2020 - 8 months
 
 WhichCraft is a top down 3D action game we did during our 3rd year of studies.  
 For the most part, the project has been done remotely during the Covid-19 pandemic.
@@ -16,8 +16,9 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 
 More details : https://github.com/vincent-breysse/whichcraft
 
-## CJOpenGL, Oct 2019 – Mar 2020 - 6 months
+## CJOpenGL
 -------------------------------------------------------
+#### Oct 2019 – Mar 2020 - 6 months
 
 Generalist game engine including support for graphics and physics with a convenient Unity-like OOP interface.  
 This project contains the work I have done during my engine courses, and many other features I have worked on during my spare time.  
@@ -35,8 +36,9 @@ This project contains the work I have done during my engine courses, and many ot
 
 More details : https://github.com/vincent-breysse/cj_opengl
 
-## Trym, Oct 2019 – Feb 2020 - 5 months
+## Trym
 -------------------------------------------------------
+#### Oct 2019 – Feb 2020 - 5 months
 
 Trym is a graphics engine with focus on low-level graphics, performances and software architecture.  
 The engine backend uses data-oriented design, whereas the front-end uses a more friendly Unity-like approach.  
@@ -50,8 +52,9 @@ The engine uses Tryl (which is one of my projects) as its core library : https:/
 
 More details : https://github.com/vincent-breysse/trym
 
-## Tryl, Oct 2018 – Feb 2020 - 1 year 5 months
+## Tryl
 -------------------------------------------------------
+#### Oct 2018 – Feb 2020 - 1 year 5 months
 
 Tryl is my all-purpose library in which I do my best to produce high quality code.   
 On my scale, this project is quite big. Here are some statistics about hand-written code:  
@@ -65,8 +68,9 @@ The more the code base grows, the more the flaws in my code appear clearly. Tryi
 
 More details : https://github.com/vincent-breysse/tryl
 
-## Inari, Jan 2019 – May 2019 - 5 months
+## Inari
 -------------------------------------------------------
+#### Jan 2019 – May 2019 - 5 months
 
 Inari is a 3rd person 3D platformer puzzle game we did during our 2nd year of studies.  
 We used HacknPlan and the SCRUM method for project management and had 4 milestones throughout the year.  
@@ -81,8 +85,9 @@ https://www.creajeux.fr/project/inari/
 
 More details : https://github.com/vincent-breysse/inari
 
-## Radial, Jan 2018 – Sep 2018 - 9 months
+## Radial
 -------------------------------------------------------
+#### Jan 2018 – Sep 2018 - 9 months
 
 Radial is a 2D action/reflexion platformer game we did during our 1st year of studies.  
 It contains roughly 10-20 hours of content throughout 9 levels, depending on your playstyle.
