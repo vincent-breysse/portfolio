@@ -16,7 +16,7 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 
 More details : https://github.com/vincent-breysse/whichcraft
 
-# CJOpenGL
+# CjOpenGL
 -------------------------------------------------------
 #### Oct 2019 – Mar 2020 - 6 months
 
