@@ -1,6 +1,6 @@
 # WhichCraft [Unity, C#, Remote work]
 -------------------------------------------------------
-#### Oct 2019 – May 2020 - 8 months
+#### Oct 2019 – May 2020
 
 WhichCraft is a top down 3D action game we did during our 3rd year of studies.  
 For the most part, the project has been done remotely during the Covid-19 pandemic.
@@ -18,7 +18,7 @@ More details : https://github.com/vincent-breysse/whichcraft
 
 # CjOpenGL [C++, OpenGL]
 -------------------------------------------------------
-#### Oct 2019 – Mar 2020 - 6 months
+#### Oct 2019 – Mar 2020
 
 Generalist game engine including support for graphics and physics with a convenient Unity-like OOP interface.  
 This project contains the work I have done during my engine courses, and many other features I have worked on during my spare time.  
@@ -38,7 +38,7 @@ More details : https://github.com/vincent-breysse/cj_opengl
 
 ## Trym [C++, Vulkan, Personal project]
 -------------------------------------------------------
-#### Oct 2019 – Feb 2020 - 5 months
+#### Oct 2019 – Feb 2020
 
 Trym is a graphics engine with focus on low-level graphics, performances and software architecture.  
 The engine backend uses data-oriented design, whereas the front-end uses a more friendly Unity-like approach.  
@@ -54,7 +54,7 @@ More details : https://github.com/vincent-breysse/trym
 
 # Tryl [C++, Personal project]
 -------------------------------------------------------
-#### Oct 2018 – Feb 2020 - 1 year 5 months
+#### Oct 2018 – Feb 2020
 
 Tryl is my all-purpose library in which I do my best to produce high quality code.   
 On my scale, this project is quite big. Here are some statistics about hand-written code:  
@@ -70,7 +70,7 @@ More details : https://github.com/vincent-breysse/tryl
 
 # Inari [Unity, C#]
 -------------------------------------------------------
-#### Jan 2019 – May 2019 - 5 months
+#### Jan 2019 – May 2019
 
 Inari is a 3rd person 3D platformer puzzle game we did during our 2nd year of studies.  
 We used HacknPlan and the SCRUM method for project management and had 4 milestones throughout the year.  
@@ -87,7 +87,7 @@ More details : https://github.com/vincent-breysse/inari
 
 ## Radial [C++, SFML, Released on Steam]
 -------------------------------------------------------
-#### Jan 2018 – Sep 2018 - 9 months
+#### Jan 2018 – Sep 2018
 
 Radial is a 2D action/reflexion platformer game we did during our 1st year of studies.  
 It contains roughly 10-20 hours of content throughout 9 levels, depending on your playstyle.
