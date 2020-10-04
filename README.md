@@ -1,4 +1,4 @@
-## WhichCraft
+# WhichCraft
 -------------------------------------------------------
 #### Oct 2019 – May 2020 - 8 months
 
@@ -11,27 +11,27 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 - Time : 8 full-time weeks
 - Role : Generalist programmer
 
-## Trailer
+### Trailer
 [![Trailer](https://img.youtube.com/vi/FjbEneLxB-M/0.jpg)](https://www.youtube.com/watch?v=FjbEneLxB-M)
 
 More details : https://github.com/vincent-breysse/whichcraft
 
-## CJOpenGL
+# CJOpenGL
 -------------------------------------------------------
 #### Oct 2019 – Mar 2020 - 6 months
 
 Generalist game engine including support for graphics and physics with a convenient Unity-like OOP interface.  
 This project contains the work I have done during my engine courses, and many other features I have worked on during my spare time.  
 
-## Simple Albedo/Specular/Normal map based rendering
+### Simple Albedo/Specular/Normal map based rendering
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/3.png)
-## Outdoor scene using the above plus a Skybox, HDR, Bloom and SSAO
+### Outdoor scene using the above plus a Skybox, HDR, Bloom and SSAO
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/1.png)
-## Indoor scene without SSAO
+### Indoor scene without SSAO
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/4.png)
-## Indoor scene with SSAO
+### Indoor scene with SSAO
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/5.png)
-## Glass rendering based on an Environment map
+### Glass rendering based on an Environment map
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/2.png)
 
 More details : https://github.com/vincent-breysse/cj_opengl
@@ -44,15 +44,15 @@ Trym is a graphics engine with focus on low-level graphics, performances and sof
 The engine backend uses data-oriented design, whereas the front-end uses a more friendly Unity-like approach.  
 The engine uses Tryl (which is one of my projects) as its core library : https://github.com/vincent-breysse/tryl
 
-## Entity rendering using Phong lighting, Texturing and Shadowing
+### Entity rendering using Phong lighting, Texturing and Shadowing
 ![Simple scene screen](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/0.png)
 
-## Same as above with a Black and White Post Processing effect
+### Same as above with a Black and White Post Processing effect
 ![Simple scene screen](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/1.png)
 
 More details : https://github.com/vincent-breysse/trym
 
-## Tryl
+# Tryl
 -------------------------------------------------------
 #### Oct 2018 – Feb 2020 - 1 year 5 months
 
@@ -68,7 +68,7 @@ The more the code base grows, the more the flaws in my code appear clearly. Tryi
 
 More details : https://github.com/vincent-breysse/tryl
 
-## Inari
+# Inari
 -------------------------------------------------------
 #### Jan 2019 – May 2019 - 5 months
 
@@ -80,7 +80,7 @@ https://www.creajeux.fr/project/inari/
 - Team : 6 programmers, 4 artists
 - Time : 8 full-time weeks
 
-## Trailer
+### Trailer
 [![Trailer](https://img.youtube.com/vi/BZAh1M4cmQY/0.jpg)](https://www.youtube.com/watch?v=BZAh1M4cmQY)
 
 More details : https://github.com/vincent-breysse/inari
@@ -99,8 +99,8 @@ https://store.steampowered.com/app/1141850/Radial/
 - Target : PC
 - Time : 16 full-time weeks
 
-## Trailer
+### Trailer
 [![Trailer](https://img.youtube.com/vi/dWEfaEr7UIQ/0.jpg)](https://www.youtube.com/watch?v=dWEfaEr7UIQ)
 
-## Editor clip
+### Editor clip
 [![Editor clip](https://img.youtube.com/vi/Q_NSUxumOyE/0.jpg)](https://www.youtube.com/watch?v=Q_NSUxumOyE)
