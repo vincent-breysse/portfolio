@@ -50,6 +50,9 @@ The engine uses Tryl (which is one of my projects) as its core library : https:/
 ### Same as above with a Black and White Post Processing effect
 ![Simple scene screen](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/1.png)
 
+### Slide example (I had to give a talk in class)
+![0](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/slides/4.png)
+
 #### More details : https://github.com/vincent-breysse/trym
 
 # Tryl [C++, Personal project]
