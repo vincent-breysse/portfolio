@@ -88,8 +88,10 @@ https://www.creajeux.fr/project/inari/
 
 #### More details : https://github.com/vincent-breysse/inari
 
-## Radial [C++, SFML, Released on Steam]
+## Radial [C++, SFML, Released on Steam] 
 -------------------------------------------------------
+![](https://raw.githubusercontent.com/vincent-breysse/portfolio/main/assets/steam.png)
+
 #### Jan 2018 – Sep 2018
 
 Radial is a 2D action/reflexion platformer game we did during our 1st year of studies.  
