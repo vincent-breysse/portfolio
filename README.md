@@ -16,6 +16,15 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 
 #### More details : https://github.com/vincent-breysse/whichcraft
 
+# Path tracer [C++, SFML]
+-------------------------------------------------------
+#### Mar 2020 – Mar 2020
+
+### Simple path tracer using Monte Carlo integration.
+![](https://raw.githubusercontent.com/vincent-breysse/path_tracer/master/screen/0.png)
+
+#### More details : https://github.com/vincent-breysse/path_tracer
+
 # CJOpenGL [C++, OpenGL]
 -------------------------------------------------------
 #### Oct 2019 – Mar 2020
