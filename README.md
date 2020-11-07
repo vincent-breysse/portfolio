@@ -20,7 +20,7 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 -------------------------------------------------------
 #### Mar 2020 – Mar 2020
 
-### Simple path tracer using Monte Carlo integration.
+### Simple multithreaded path tracer using Monte Carlo integration.
 ![](https://raw.githubusercontent.com/vincent-breysse/path_tracer/master/screen/0.png)
 
 #### More details : https://github.com/vincent-breysse/path_tracer
