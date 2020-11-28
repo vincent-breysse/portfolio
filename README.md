@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------
 #### Nov 2020
 
-### Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
+#### Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
 ## Viewer perspective
 ![](https://raw.githubusercontent.com/vincent-breysse/culling/main/Screen/0.png)
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Not culled**  
@@ -23,14 +23,7 @@
 -------------------------------------------------------
 #### Oct 2019 – May 2020
 
-WhichCraft is a top down 3D action game we did during our 3rd year of studies.  
-For the most part, the project has been done remotely during the Covid-19 pandemic.
-
-- Technology : Unity/C#
-- Team : 6 programmers, 1-4 artists (Most of our artists left early in the project)
-- Target : PC
-- Time : 8 full-time weeks
-- Role : Generalist programmer
+#### Top down 3D action game we did during our 3rd year of studies. For the most part, the project has been done remotely during the Covid-19 pandemic.
 
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/FjbEneLxB-M/0.jpg)](https://www.youtube.com/watch?v=FjbEneLxB-M)
@@ -50,8 +43,7 @@ For the most part, the project has been done remotely during the Covid-19 pandem
 -------------------------------------------------------
 #### Oct 2019 – Mar 2020
 
-Generalist game engine including support for graphics and physics with a convenient Unity-like OOP interface.  
-This project contains the work I have done during my engine courses, and many other features I have worked on during my spare time.  
+#### Generalist game engine including support for graphics and physics with a convenient Unity-like OOP interface.  
 
 ### Simple Albedo/Specular/Normal map based rendering
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/3.png)
@@ -70,9 +62,8 @@ This project contains the work I have done during my engine courses, and many ot
 -------------------------------------------------------
 #### Oct 2019 – Feb 2020
 
-Trym is a graphics engine with focus on low-level graphics, performances and software architecture.  
-The engine backend uses data-oriented design, whereas the front-end uses a more friendly Unity-like approach.  
-The engine uses Tryl (which is one of my projects) as its core library : https://github.com/vincent-breysse/tryl
+#### Graphics engine with focus on low-level graphics, performances and software architecture.  
+#### The engine uses Tryl (which is one of my projects) as its core library : https://github.com/vincent-breysse/tryl
 
 ### Entity rendering using Phong lighting, Texturing and Shadowing
 ![Simple scene screen](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/0.png)
@@ -89,15 +80,13 @@ The engine uses Tryl (which is one of my projects) as its core library : https:/
 -------------------------------------------------------
 #### Oct 2018 – Feb 2020
 
-Tryl is my all-purpose library in which I do my best to produce high quality code.   
-On my scale, this project is quite big. Here are some statistics about hand-written code:  
+#### All-purpose library in which I do my best to produce high quality code.   
+#### On my scale, this project is quite big. Here are some statistics about hand-written code:  
 
 ![](https://github.com/vincent-breysse/tryl/blob/master/screen/0.png)
 ![](https://github.com/vincent-breysse/tryl/blob/master/screen/1.png)
 
-It is intentionally kept large in order to face real-world difficulties. This project was very good at teaching me that implementing some features in a fresh code base has nothing to do with working in an environment carrying a certain past.  
-
-The more the code base grows, the more the flaws in my code appear clearly. Trying to make my code passes the test of time was by biggest challenge here.  
+#### This project was very good at teaching me that implementing some features in a fresh code base has nothing to do with working in an environment carrying a certain past.  
 
 #### More details : https://github.com/vincent-breysse/tryl
 
@@ -105,14 +94,7 @@ The more the code base grows, the more the flaws in my code appear clearly. Tryi
 -------------------------------------------------------
 #### Jan 2019 – May 2019
 
-Inari is a 3rd person 3D platformer puzzle game we did during our 2nd year of studies.  
-We used HacknPlan and the SCRUM method for project management and had 4 milestones throughout the year.  
-https://www.creajeux.fr/project/inari/  
-- Technology : Unity
-- Target : PC
-- Team : 6 programmers, 4 artists
-- Time : 8 full-time weeks
-
+#### 3rd person 3D platformer puzzle game we did during our 2nd year of studies.  
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/BZAh1M4cmQY/0.jpg)](https://www.youtube.com/watch?v=BZAh1M4cmQY)
 
@@ -124,15 +106,9 @@ https://www.creajeux.fr/project/inari/
 
 #### Jan 2018 – Sep 2018
 
-Radial is a 2D action/reflexion platformer game we did during our 1st year of studies.  
-It contains roughly 10-20 hours of content throughout 9 levels, depending on your playstyle.
-The game has been released on Steam and comes with some successes to unlock.  
-https://store.steampowered.com/app/1141850/Radial/  
-
-- Technology : C++ and SFML
-- Team : 4 programmers, 5 artists
-- Target : PC
-- Time : 16 full-time weeks
+#### 2D action/reflexion platformer game we did during our 1st year of studies.  
+#### It contains roughly 10-20 hours of content throughout 9 levels, depending on your playstyle.
+#### The game has been released on Steam and comes with some successes to unlock. https://store.steampowered.com/app/1141850/Radial/  
 
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/dWEfaEr7UIQ/0.jpg)](https://www.youtube.com/watch?v=dWEfaEr7UIQ)
