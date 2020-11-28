@@ -19,7 +19,7 @@
 
 #### More details : https://github.com/vincent-breysse/culling
 
-# WhichCraft [Unity, C#, Remote work]
+# WhichCraft [Unity, C#]
 -------------------------------------------------------
 #### Oct 2019 – May 2020
 
