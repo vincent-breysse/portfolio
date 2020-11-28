@@ -102,9 +102,8 @@
 
 ## Radial [C++, SFML, Released on Steam] 
 -------------------------------------------------------
-![](https://raw.githubusercontent.com/vincent-breysse/portfolio/main/assets/steam.png)
-
 #### Jan 2018 – Sep 2018
+![](https://raw.githubusercontent.com/vincent-breysse/portfolio/main/assets/steam.png)
 
 #### 2D action/reflexion platformer game we did during our 1st year of studies.
 #### The game has been released on Steam and comes with some successes to unlock. https://store.steampowered.com/app/1141850/Radial/  
