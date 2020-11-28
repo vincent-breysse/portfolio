@@ -34,7 +34,7 @@
 -------------------------------------------------------
 #### Mar 2020
 
-### Simple multithreaded path tracer using Monte Carlo integration.
+#### Simple multithreaded path tracer using Monte Carlo integration.
 ![](https://raw.githubusercontent.com/vincent-breysse/path_tracer/master/screen/0.png)
 
 #### More details : https://github.com/vincent-breysse/path_tracer
@@ -62,8 +62,7 @@
 -------------------------------------------------------
 #### Oct 2019 – Feb 2020
 
-#### Graphics engine with focus on low-level graphics, performances and software architecture.  
-#### The engine uses Tryl (which is one of my projects) as its core library : https://github.com/vincent-breysse/tryl
+#### Graphics engine with focus on low-level graphics, performances and software architecture. The engine uses Tryl (which is one of my projects) as its core library : https://github.com/vincent-breysse/tryl
 
 ### Entity rendering using Phong lighting, Texturing and Shadowing
 ![Simple scene screen](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/0.png)
@@ -80,8 +79,7 @@
 -------------------------------------------------------
 #### Oct 2018 – Feb 2020
 
-#### All-purpose library in which I do my best to produce high quality code.   
-#### On my scale, this project is quite big. Here are some statistics about hand-written code:  
+#### All-purpose library in which I do my best to produce high quality code. On my scale, this project is quite big. Here are some statistics about hand-written code:  
 
 ![](https://github.com/vincent-breysse/tryl/blob/master/screen/0.png)
 ![](https://github.com/vincent-breysse/tryl/blob/master/screen/1.png)
@@ -105,8 +103,7 @@
 #### Jan 2018 – Sep 2018
 ![](https://raw.githubusercontent.com/vincent-breysse/portfolio/main/assets/steam.png)
 
-#### 2D action/reflexion platformer game we did during our 1st year of studies.
-#### The game has been released on Steam and comes with some successes to unlock. https://store.steampowered.com/app/1141850/Radial/  
+#### 2D action/reflexion platformer game we did during our 1st year of studies. The game has been released on Steam and comes with some successes to unlock. https://store.steampowered.com/app/1141850/Radial/  
 
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/dWEfaEr7UIQ/0.jpg)](https://www.youtube.com/watch?v=dWEfaEr7UIQ)
