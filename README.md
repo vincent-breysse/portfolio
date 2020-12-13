@@ -75,7 +75,7 @@
 
 #### More details : https://github.com/vincent-breysse/cj_opengl
 
-## Trym [C++, Vulkan, Personal project]
+## Trym [C++, Vulkan]
 -------------------------------------------------------
 #### Oct 2019 – Feb 2020
 
@@ -92,7 +92,7 @@
 
 #### More details : https://github.com/vincent-breysse/trym
 
-# Tryl [C++, Personal project]
+# Tryl [C++]
 -------------------------------------------------------
 #### Oct 2018 – Feb 2020
 
