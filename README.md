@@ -2,7 +2,7 @@
 ----------------------------------------------------------------------------------------
 #### Dec 2020
 
-#### Light Probe custom implementation using Spherical Harmonics. Providing decent and fast results for realtime GI.
+#### Light Probe custom implementation using Spherical Harmonics for fast realtime GI results.
 ## Without Light Probe GI
 ![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/1-0.png)
 ## With Light Probe GI
