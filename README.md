@@ -1,3 +1,20 @@
+## Custom Light Probes [Unity, C#]
+----------------------------------------------------------------------------------------
+#### Dec 2020
+
+#### Light Probe custom implementation using Spherical Harmonics. Providing decent and fast results for realtime GI.
+## Without Light Probe GI
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/1-0.png)
+## With Light Probe GI
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/1-1.png)
+## SH coefficients interpolation
+![](https://via.placeholder.com/15/FFFF00/000000?text=+) **Light probes**  
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/3.png)
+## Probe Environment map (left) and Irradiance map approximation (right) using order 2 Spherical Harmonics (9 coefficients per color channel)
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/4.png)
+
+#### More details : https://github.com/vincent-breysse/light-probes
+
 ## Culling system [Unity, C#, DOTS]
 ----------------------------------------------------------------------------------------
 #### Nov 2020
