@@ -1,3 +1,21 @@
+## DX12 Sandbox [C++, DX12]
+----------------------------------------------------------------------------------------
+#### Jan 2021
+
+### Keypoints
+- Data-oriented model
+- GPU NBody simulation using thread group shared memory
+- GPU driven frustrum culling
+- Indirect drawing with one Instanced draw call per material
+- Support for an arbitrary number of materials
+- Heavy use of split barriers
+- Texturing
+
+![](https://raw.githubusercontent.com/vincent-breysse/learn-dx12/master/screen/0.png)
+![](https://raw.githubusercontent.com/vincent-breysse/learn-dx12/master/screen/1.png)
+
+#### More details : https://github.com/vincent-breysse/learn-dx12
+
 ## Custom Light Probes [Unity, C#]
 ----------------------------------------------------------------------------------------
 #### Dec 2020
