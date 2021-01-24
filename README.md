@@ -76,7 +76,7 @@
 
 #### More details : https://github.com/vincent-breysse/path_tracer
 
-# CJOpenGL [C++, OpenGL]
+# OpenGL Engine [C++, OpenGL]
 -------------------------------------------------------
 #### Oct 2019 – Mar 2020
 
@@ -95,11 +95,11 @@
 
 #### More details : https://github.com/vincent-breysse/cj_opengl
 
-## Trym [C++, Vulkan]
+## Vulkan Engine [C++, Vulkan]
 -------------------------------------------------------
 #### Oct 2019 – Feb 2020
 
-#### Graphics engine with focus on low-level graphics, performances and software architecture. The engine uses Tryl (which is one of my projects) as its core library : https://github.com/vincent-breysse/tryl
+#### Graphics engine with focus on low-level graphics, performances and software architecture. The engine is based on my own all-purpose library : https://github.com/vincent-breysse/tryl
 
 ### Entity rendering using Phong lighting, Texturing and Shadowing
 ![Simple scene screen](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/0.png)
@@ -112,7 +112,7 @@
 
 #### More details : https://github.com/vincent-breysse/trym
 
-# Tryl [C++]
+# Personal C++ library [C++]
 -------------------------------------------------------
 #### Oct 2018 – Feb 2020
 
