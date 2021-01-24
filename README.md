@@ -1,4 +1,4 @@
-# Vincent Breysse Portfolio. Sorted by date
+# Vincent Breysse's Portfolio. Sorted by date
 
 ## DX12 Sandbox [C++, DirectX 12]
 ----------------------------------------------------------------------------------------
