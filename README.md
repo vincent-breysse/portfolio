@@ -1,10 +1,12 @@
-## DX12 Sandbox [C++, DX12]
+# Vincent Breysse Portfolio. Sorted by date
+
+## DX12 Sandbox [C++, DirectX 12]
 ----------------------------------------------------------------------------------------
 #### Jan 2021
 
-### Keypoints
+### Key points
 - Data-oriented model
-- GPU NBody simulation using thread group shared memory
+- GPU NBody simulation accelerated using thread group shared memory
 - GPU driven frustrum culling
 - Indirect drawing with one Instanced draw call per material
 - Support for an arbitrary number of materials
