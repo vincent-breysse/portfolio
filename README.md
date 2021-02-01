@@ -133,7 +133,7 @@
 ### Trailer
 [![Trailer](https://img.youtube.com/vi/BZAh1M4cmQY/0.jpg)](https://www.youtube.com/watch?v=BZAh1M4cmQY)
 
-#### More details : https://github.com/vincent-breysse/inari
+#### More details : https://github.com/vincent-breysse/inari-unity
 
 ## Radial [C++, SFML, Released on Steam] 
 -------------------------------------------------------
