@@ -1,23 +1,5 @@
 # Vincent Breysse's Portfolio. Sorted by date
 
-## DX12 Sandbox [C++, DirectX 12]
-----------------------------------------------------------------------------------------
-#### Jan 2021
-
-### Key points
-- Data-oriented model
-- GPU NBody simulation accelerated using thread group shared memory
-- GPU driven frustrum culling
-- Indirect drawing with one Instanced draw call per material
-- Support for an arbitrary number of materials
-- Heavy use of split barriers
-- Texturing
-
-![](https://raw.githubusercontent.com/vincent-breysse/learn-dx12/master/screen/0.png)
-![](https://raw.githubusercontent.com/vincent-breysse/learn-dx12/master/screen/1.png)
-
-#### More details : https://github.com/vincent-breysse/learn-dx12
-
 ## Custom Light Probes [Unity, C#]
 ----------------------------------------------------------------------------------------
 #### Dec 2020
@@ -111,6 +93,24 @@
 ![0](https://raw.githubusercontent.com/vincent-breysse/trym/master/screens/slides/4.png)
 
 #### More details : https://github.com/vincent-breysse/trym
+
+## DX12 Sandbox [C++, DirectX 12]
+----------------------------------------------------------------------------------------
+#### Jan 2021
+
+### Key points
+- Data-oriented model
+- GPU NBody simulation accelerated using thread group shared memory
+- GPU driven frustrum culling
+- Indirect drawing with one Instanced draw call per material
+- Support for an arbitrary number of materials
+- Heavy use of split barriers
+- Texturing
+
+![](https://raw.githubusercontent.com/vincent-breysse/learn-dx12/master/screen/0.png)
+![](https://raw.githubusercontent.com/vincent-breysse/learn-dx12/master/screen/1.png)
+
+#### More details : https://github.com/vincent-breysse/learn-dx12
 
 # Personal C++ library [C++]
 -------------------------------------------------------
