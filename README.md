@@ -6,14 +6,14 @@
 
 #### Generalist game engine including support for graphics and physics with a convenient Unity-like OOP interface.  
 
-### Simple Albedo/Specular/Normal map based rendering
-![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/3.png)
-### Outdoor scene using the above plus a Skybox, HDR, Bloom and SSAO
-![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/1.png)
 ### Indoor scene without SSAO
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/4.png)
 ### Indoor scene with SSAO
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/5.png)
+### Simple Albedo/Specular/Normal map based rendering
+![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/3.png)
+### Outdoor scene using the above plus a Skybox, HDR, Bloom and SSAO
+![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/1.png)
 ### Glass rendering based on an Environment map
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/2.png)
 
