@@ -1,63 +1,5 @@
 # Portfolio
 
-## Custom Light Probes [Unity, C#]
-----------------------------------------------------------------------------------------
-#### Dec 2020
-
-#### Light Probe custom implementation using Spherical Harmonics for fast realtime GI results.
-## Without Light Probe GI
-![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/1-0.png)
-## With Light Probe GI
-![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/1-1.png)
-## SH coefficients interpolation using barycentric coordinates
-![](https://via.placeholder.com/15/FFFF00/000000?text=+) **Light probes**  
-![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/3.png)
-## Probe Environment map (left) and Irradiance map approximation (right) using order 2 Spherical Harmonics (9 coefficients per color channel)
-![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/4.png)
-
-#### More details : https://github.com/vincent-breysse/light-probes
-
-## Culling system [Unity, C#, DOTS]
-----------------------------------------------------------------------------------------
-#### Nov 2020
-
-#### Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
-## Viewer perspective
-![](https://raw.githubusercontent.com/vincent-breysse/culling/main/Screen/0.png)
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Not culled**  
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Culled by Occluders**  
-![#888888](https://via.placeholder.com/15/888888/000000?text=+) **Out of Frustrum**  
-## Debug view
-![](https://raw.githubusercontent.com/vincent-breysse/culling/main/Screen/2.png)
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Not culled**  
-![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Culled by Occluders**  
-![#888888](https://via.placeholder.com/15/888888/000000?text=+) **Out of Frustrum**  
-
-## Octree first layer
-![](https://raw.githubusercontent.com/vincent-breysse/culling/main/Screen/3.png)
-
-#### More details : https://github.com/vincent-breysse/culling
-
-# WhichCraft [Unity, C#]
--------------------------------------------------------
-#### Oct 2019 – May 2020
-
-#### Top down 3D action game we did during our 3rd year of studies. For the most part, the project has been done remotely during the Covid-19 pandemic.
-
-### Trailer
-[![Trailer](https://img.youtube.com/vi/FjbEneLxB-M/0.jpg)](https://www.youtube.com/watch?v=FjbEneLxB-M)
-
-#### More details : https://github.com/vincent-breysse/whichcraft
-
-# Path tracer [C++, SFML]
--------------------------------------------------------
-#### Mar 2020
-
-#### Simple multithreaded path tracer using Monte Carlo integration.
-![](https://raw.githubusercontent.com/vincent-breysse/path_tracer/master/screen/0.png)
-
-#### More details : https://github.com/vincent-breysse/path_tracer
-
 # OpenGL Engine [C++, OpenGL]
 -------------------------------------------------------
 #### Oct 2019 – Mar 2020
@@ -76,6 +18,30 @@
 ![](https://raw.githubusercontent.com/vincent-breysse/cj_opengl/master/screens/2.png)
 
 #### More details : https://github.com/vincent-breysse/cj_opengl
+
+## Radial [C++, SFML, Released on Steam] 
+-------------------------------------------------------
+#### Jan 2018 – Sep 2018
+![](https://raw.githubusercontent.com/vincent-breysse/portfolio/main/assets/steam.png)
+
+#### 2D action/reflexion platformer game we did during our 1st year of studies. The game has been released on Steam and comes with some successes to unlock. https://store.steampowered.com/app/1141850/Radial/  
+
+### Trailer
+[![Trailer](https://img.youtube.com/vi/dWEfaEr7UIQ/0.jpg)](https://www.youtube.com/watch?v=dWEfaEr7UIQ)
+
+### Editor clip
+[![Editor clip](https://img.youtube.com/vi/Q_NSUxumOyE/0.jpg)](https://www.youtube.com/watch?v=Q_NSUxumOyE)
+
+#### More details : https://github.com/vincent-breysse/radial
+
+# Path tracer [C++, SFML]
+-------------------------------------------------------
+#### Mar 2020
+
+#### Simple multithreaded path tracer using Monte Carlo integration.
+![](https://raw.githubusercontent.com/vincent-breysse/path_tracer/master/screen/0.png)
+
+#### More details : https://github.com/vincent-breysse/path_tracer
 
 ## Vulkan Engine [C++, Vulkan]
 -------------------------------------------------------
@@ -112,6 +78,44 @@
 
 #### More details : https://github.com/vincent-breysse/learn-dx12
 
+## Culling system [Unity, C#, DOTS]
+----------------------------------------------------------------------------------------
+#### Nov 2020
+
+#### Unity ECS implementation of a typical Culling system supporting Frustrum Culling and Occlusion Culling
+## Viewer perspective
+![](https://raw.githubusercontent.com/vincent-breysse/culling/main/Screen/0.png)
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Not culled**  
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Culled by Occluders**  
+![#888888](https://via.placeholder.com/15/888888/000000?text=+) **Out of Frustrum**  
+## Debug view
+![](https://raw.githubusercontent.com/vincent-breysse/culling/main/Screen/2.png)
+![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) **Not culled**  
+![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) **Culled by Occluders**  
+![#888888](https://via.placeholder.com/15/888888/000000?text=+) **Out of Frustrum**  
+
+## Octree first layer
+![](https://raw.githubusercontent.com/vincent-breysse/culling/main/Screen/3.png)
+
+#### More details : https://github.com/vincent-breysse/culling
+
+## Custom Light Probes [Unity, C#]
+----------------------------------------------------------------------------------------
+#### Dec 2020
+
+#### Light Probe custom implementation using Spherical Harmonics for fast realtime GI results.
+## Without Light Probe GI
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/1-0.png)
+## With Light Probe GI
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/1-1.png)
+## SH coefficients interpolation using barycentric coordinates
+![](https://via.placeholder.com/15/FFFF00/000000?text=+) **Light probes**  
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/3.png)
+## Probe Environment map (left) and Irradiance map approximation (right) using order 2 Spherical Harmonics (9 coefficients per color channel)
+![](https://raw.githubusercontent.com/vincent-breysse/light-probes/master/Screen/4.png)
+
+#### More details : https://github.com/vincent-breysse/light-probes
+
 # Personal C++ library [C++]
 -------------------------------------------------------
 #### Oct 2018 – Feb 2020
@@ -135,17 +139,13 @@
 
 #### More details : https://github.com/vincent-breysse/inari-unity
 
-## Radial [C++, SFML, Released on Steam] 
+# WhichCraft [Unity, C#]
 -------------------------------------------------------
-#### Jan 2018 – Sep 2018
-![](https://raw.githubusercontent.com/vincent-breysse/portfolio/main/assets/steam.png)
+#### Oct 2019 – May 2020
 
-#### 2D action/reflexion platformer game we did during our 1st year of studies. The game has been released on Steam and comes with some successes to unlock. https://store.steampowered.com/app/1141850/Radial/  
+#### Top down 3D action game we did during our 3rd year of studies. For the most part, the project has been done remotely during the Covid-19 pandemic.
 
 ### Trailer
-[![Trailer](https://img.youtube.com/vi/dWEfaEr7UIQ/0.jpg)](https://www.youtube.com/watch?v=dWEfaEr7UIQ)
+[![Trailer](https://img.youtube.com/vi/FjbEneLxB-M/0.jpg)](https://www.youtube.com/watch?v=FjbEneLxB-M)
 
-### Editor clip
-[![Editor clip](https://img.youtube.com/vi/Q_NSUxumOyE/0.jpg)](https://www.youtube.com/watch?v=Q_NSUxumOyE)
-
-#### More details : https://github.com/vincent-breysse/radial
+#### More details : https://github.com/vincent-breysse/whichcraft
