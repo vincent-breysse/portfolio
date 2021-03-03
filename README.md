@@ -1,4 +1,4 @@
-# Vincent Breysse's Portfolio. Sorted by date
+# Portfolio
 
 ## Custom Light Probes [Unity, C#]
 ----------------------------------------------------------------------------------------
